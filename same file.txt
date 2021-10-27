@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment 11.1</title>
+    <script
+      src="https://kit.fontawesome.com/02eb1de27e.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="NavBar">
+      <ul id="nav">
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">CAPABILITIES</a></li>
+        <li><a href="#">ABOUT US</a></li>
+        <li><a href="#">RFQ</a></li>
+        <li><a href="#">CONTACT US</a></li>
+      </ul>
+    </div>
+    <div class="logoImg">
+      <img src="logo.png" alt="" />
+    </div>
+    <div class="topImg">
+      <img src="TopImg.jpg" alt="" />
+    </div>
+
+    <div class="box">
+      <div class="box3 firstBox">
+        <i class="icon5 far fa-3x fa-clock"></i>
+        <h2 class="last">Fast</h2>
+        <h2 class="last" style="color: #fdc902">Online</h2>
+        <p class="para">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque itaque
+          perspiciatis quod voluptas eum, nulla deserunt amet quas eos placeat
+          voluptatem sequi ut natus, saepe reiciendis perferendis possimus,
+          delectus neque!
+        </p>
+        <i class="share fas fa-share-square"></i>
+      </div>
+
+      <div class="box3 firstBox">
+        <i class="icon6 far fa-3x fa-thumbs-up"></i>
+        <h2 class="last">Fast</h2>
+        <h2 class="last" style="color: #fdc902">Online</h2>
+        <p class="para">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque itaque
+          perspiciatis quod voluptas eum, nulla deserunt amet quas eos placeat
+          voluptatem sequi ut natus, saepe reiciendis perferendis possimus,
+          delectus neque!
+        </p>
+        <i class="share fas fa-share-square"></i>
+      </div>
+
+      <div class="box3 firstBox">
+        <i class="icon7 fas fa-3x fa-suitcase"></i>
+        <h2 class="last">Fast</h2>
+        <h2 class="last" style="color: #fdc902">Online</h2>
+        <p class="para">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque itaque
+          perspiciatis quod voluptas eum, nulla deserunt amet quas eos placeat
+          voluptatem sequi ut natus, saepe reiciendis perferendis possimus,
+          delectus neque!
+        </p>
+        <i class="share fas fa-share-square"></i>
+      </div>
+    </div>
+
+    <div id="yellowBox"></div>
+  </body>
+</html>
